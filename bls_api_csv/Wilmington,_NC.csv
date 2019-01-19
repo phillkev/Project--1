@@ -6,5 +6,7 @@ Occupation Code,Occupation Name,Location,Employment,Annual mean wage,Annual medi
 132051,Financial Analysts,"Wilmington, NC",180,69970,64270
 151121,Computer Systems Analysts,"Wilmington, NC",210,92690,91600
 151122,Information Security Analysts,"Wilmington, NC",50,76750,75830
+151141,Database Administrators,"Wilmington, NC",,,
+152011,Actuaries,"Wilmington, NC",,,
 152031,Operations Research Analysts,"Wilmington, NC",60,84490,82470
 152041,Statisticians,"Wilmington, NC",70,92020,88110
